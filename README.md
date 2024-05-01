@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development in general.
 - 🌱 I’m currently learning Java, HTML, and CSS.
 - 💞️ I’m looking to collaborate on any project that is available for beginners.
-- 📫 How to reach me [...](https://www.linkedin.com/in/dimdrk/)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/dimdrk/)
 - 😄 Pronouns: Mr.
 - ⚡ Fun fact: I started with Python and R.
 
