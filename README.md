@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dimdrk
 - 👀 I’m interested in software development in general.
-- 🌱 I’m currently learning Java, HTML, and CSS.
+- 🌱 I’m currently learning Java, JavaScript, HTML, and CSS.
 - 🎷 I am using Visual Studio Code, IntelliJ IDEA, 
                  Eclipse IDE, Node.js DBeaver,Apache Tomcat, 
                  MySQL Workbench, SQL Server Management Studio, 
