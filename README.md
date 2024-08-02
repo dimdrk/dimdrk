@@ -5,7 +5,7 @@
                  Eclipse IDE, Node.js DBeaver,Apache Tomcat, 
                  MySQL Workbench, SQL Server Management Studio, 
                  DataGrip, draw.io, Power BI, Visual Studio.
-- 🔌 Bootstrap, Figma, jQuery, AJAX, UMLetino, Swing, Git - GitHub. 
+- 🔌 Bootstrap, Figma, jQuery, AJAX, Maven Apache, UMLetino, Swing, Git - GitHub. 
 - 💞️ I’m looking to collaborate on any project that is available for beginners.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/dimdrk/)
 - 😄 Pronouns: Mr.
