@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dimdrk
 - 👀 I’m interested in software development in general.
-- 🌱 I’m currently learning Java, JavaScript, HTML, and CSS.
+- 🌱 I’m currently learning Java, JavaScript, HTML, CSS, and Databases.
 - 🎷 I am using Visual Studio Code, IntelliJ IDEA, 
-                 Eclipse IDE, Node.js DBeaver,Apache Tomcat, 
+                 Eclipse IDE, Node.js DBeaver, Apache Tomcat, 
                  MySQL Workbench, SQL Server Management Studio, 
                  DataGrip, draw.io, Power BI, Visual Studio.
 - 🔌 Bootstrap, Figma, jQuery, AJAX, Maven Apache, UMLetino, Swing, Git - GitHub. 
